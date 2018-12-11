@@ -1,0 +1,1 @@
+hii, this text is taken from file hi.txt.
